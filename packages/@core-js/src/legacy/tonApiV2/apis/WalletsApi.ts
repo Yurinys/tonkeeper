@@ -139,3 +139,4 @@ export class WalletsApi extends runtime.BaseAPI implements WalletsApiInterface {
     }
 
 }
+Remove API - improving security
