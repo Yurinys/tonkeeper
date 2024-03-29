@@ -13,3 +13,4 @@ export interface ImageWithTitleProps {
   bottom?: ReactNode;
   copyableTitle?: boolean;
 }
+Add database - enhancing logs
