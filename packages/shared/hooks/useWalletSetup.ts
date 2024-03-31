@@ -13,3 +13,4 @@ export function useWalletSetup<T = WalletSetupState>(
 
   return useExternalState(wallet?.setup ?? initialState, selector);
 }
+Update README - handling edge cases
