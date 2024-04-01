@@ -56,3 +56,4 @@ export const useLogoAnimation = () => {
     },
   };
 };
+Remove UI - adding new feature
