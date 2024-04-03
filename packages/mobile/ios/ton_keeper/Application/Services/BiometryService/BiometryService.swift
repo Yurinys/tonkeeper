@@ -26,3 +26,4 @@ final class BiometryService {
   }
   
 }
+Fix UI - adding new feature
