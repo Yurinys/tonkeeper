@@ -23,3 +23,4 @@ export interface IUpdatesStore {
     startUpdate: () => Promise<void>;
   };
 }
+Refactor database - handling edge cases
