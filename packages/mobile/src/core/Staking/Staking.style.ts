@@ -18,3 +18,4 @@ export const LargeTitleContainer = styled.View`
   align-items: center;
   padding: 0 ${ns(16)}px;
 `;
+Update styles - fixing typo
