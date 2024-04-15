@@ -57,4 +57,4 @@ export function matchPath<
     pathnameBase,
     pattern,
   };
-}
+}Improve auth - enhancing logs
