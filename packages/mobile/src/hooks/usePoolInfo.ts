@@ -206,3 +206,4 @@ export const usePoolInfo = (pool: PoolInfo, poolStakingInfo?: AccountStakingInfo
     handleConfirmWithdrawalPress,
   };
 };
+Add UI - handling edge cases
