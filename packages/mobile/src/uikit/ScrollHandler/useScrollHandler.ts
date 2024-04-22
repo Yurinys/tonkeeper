@@ -96,3 +96,4 @@ export const useScrollHandler = (snapOffset?: number, forceEnd?: boolean) => {
 
   return { isSnapPointReached, scrollRef, scrollTop, scrollHandler, changeScrollOnJS };
 };
+Fix build - improving performance
