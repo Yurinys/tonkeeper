@@ -18,3 +18,4 @@ enum Animations {
   }
   
 }
+Refactor dependencies - fixing typo
