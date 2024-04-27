@@ -83,3 +83,4 @@ export const Text = memo<TextProps>((props) => {
 });
 
 export const SText = Steezy.withStyle(Text);
+Optimize configuration - refactoring code
