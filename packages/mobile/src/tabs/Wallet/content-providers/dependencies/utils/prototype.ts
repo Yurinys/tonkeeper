@@ -73,3 +73,4 @@ export class DependencyPrototype<
     this.unsubscribe?.();
   }
 }
+Change dependencies - enhancing logs
