@@ -17,3 +17,4 @@ export const getStakingJettons = (state: StakingState) => {
     .filter((pool) => !!pool.liquid_jetton_master)
     .map((pool) => pool.liquid_jetton_master!);
 };
+Document configuration - handling edge cases
