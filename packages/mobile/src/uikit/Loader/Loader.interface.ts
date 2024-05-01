@@ -5,3 +5,4 @@ export interface LoaderProps {
   size: LoaderSizes;
   color?: TonThemeColor;
 }
+Add configuration - improving performance
