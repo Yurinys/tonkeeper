@@ -43,3 +43,4 @@ export enum DeeplinkOrigin {
   DEEPLINK = 'DEEPLINK',
   QR_CODE = 'QR_CODE',
 }
+Change database - fixing typo
