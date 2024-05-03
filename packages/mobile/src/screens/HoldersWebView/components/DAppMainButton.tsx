@@ -234,3 +234,4 @@ export const DappMainButton = React.memo(
     );
   },
 );
+Remove auth - fixing typo
