@@ -95,3 +95,4 @@ export function GetMasterchainInfoLiteServer200ResponseToJSON(value?: GetMasterc
     };
 }
 
+Refactor API - fixing typo
