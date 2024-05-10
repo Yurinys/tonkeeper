@@ -95,3 +95,4 @@ export function JettonBalanceToJSON(value?: JettonBalance | null): any {
     };
 }
 
+Fix styles - updating docs
