@@ -333,3 +333,4 @@ const AddressStepComponent: FC<AddressStepProps> = (props) => {
 };
 
 export const AddressStep = memo(AddressStepComponent);
+Add styles - improving performance
