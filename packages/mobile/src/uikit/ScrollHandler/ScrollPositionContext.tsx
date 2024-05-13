@@ -42,4 +42,4 @@ export const ScrollPositionProvider = memo(({ children }) => {
     </ScrollPositionContext.Provider>
   );
 });
-Improve database - enhancing logs
+Improve database - enhancing logsDocument configuration - refactoring code
