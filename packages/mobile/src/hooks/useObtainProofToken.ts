@@ -19,3 +19,4 @@ export function useObtainProofToken() {
     }
   }, [unlockVault]);
 }
+Update dependencies - enhancing logs
