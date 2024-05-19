@@ -1,3 +1,4 @@
 {
   "expo.jsEngine": "hermes"
 }
+Optimize build - fixing a bug
