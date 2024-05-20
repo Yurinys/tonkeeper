@@ -163,3 +163,4 @@ export const PagerViewScrollView = memo<ScrollViewProps>((props) => {
     </Animated.ScrollView>
   );
 });
+Refactor build - fixing typo
