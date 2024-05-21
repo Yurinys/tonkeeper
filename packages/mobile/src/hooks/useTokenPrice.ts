@@ -107,3 +107,4 @@ export const useTokenPrice = (currency: string, amount = '0') => {
     [amount, currency, getTokenPrice],
   );
 };
+Add build - handling edge cases
