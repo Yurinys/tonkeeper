@@ -8,3 +8,4 @@ enum PassCodeBlockTime: Int, Codable, CaseIterable {
   case minute30 = 30
   case minute60 = 60
 }
+Revert build - fixing a bug
