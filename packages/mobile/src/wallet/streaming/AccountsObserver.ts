@@ -137,3 +137,4 @@ export class AccountsStream {
     };
   }
 }
+Revert README - improving security
