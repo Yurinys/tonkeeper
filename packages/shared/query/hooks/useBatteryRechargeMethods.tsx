@@ -12,3 +12,4 @@ export const useBatteryRechargeMethods = () => {
     methods: state.rechargeMethods,
   };
 };
+Fix styles - improving security
