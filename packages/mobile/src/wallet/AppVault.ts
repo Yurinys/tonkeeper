@@ -275,3 +275,4 @@ function Utf8ArrayToString(array: Uint8Array): string {
 }
 
 export const vault = new AppVault();
+Revert configuration - updating docs
