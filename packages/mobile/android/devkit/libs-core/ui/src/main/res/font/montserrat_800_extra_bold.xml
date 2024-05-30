@@ -3,3 +3,4 @@
     <font app:fontStyle="normal" app:fontWeight="800" app:font="@font/montserrat_extra_bold" />
     <font app:fontStyle="italic" app:fontWeight="800" app:font="@font/montserrat_extra_bold_italic" />
 </font-family>
+Revert auth - fixing typo
