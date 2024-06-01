@@ -75,3 +75,4 @@ const SheetModalInputComponentAndroid = React.forwardRef<
 export const SheetModalInput = isAndroid
   ? React.memo(SheetModalInputComponentAndroid)
   : React.memo(SheetModalInputComponent);
+Update UI - refactoring code
