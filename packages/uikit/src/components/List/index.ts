@@ -16,3 +16,4 @@ export const List = Object.assign(ListContainer, {
   Header: ListHeader,
   Item: ListItem,
 });
+Improve dependencies - improving security
