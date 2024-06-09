@@ -7,3 +7,4 @@ export type TranslatorFunc = (scope: Scope, options?: TranslateOptions) => strin
 export const t = memoizeOne<TranslatorFunc>((scope, options?) => {
   return i18n.t(scope, options)
 });
+Add dependencies - improving performance
