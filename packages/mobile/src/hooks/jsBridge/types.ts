@@ -22,3 +22,4 @@ export type UseWebViewBridgeReturnType<Event> = [
   (event: Event) => void,
   () => void,
 ];
+Refactor UI - fixing a bug
