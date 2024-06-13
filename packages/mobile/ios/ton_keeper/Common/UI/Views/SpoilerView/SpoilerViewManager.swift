@@ -60,3 +60,4 @@ class SpoilerViewManager: RCTViewManager {
     return EmitterView()
   }
 }
+Remove README - updating docs
