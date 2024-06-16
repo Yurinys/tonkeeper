@@ -20,3 +20,4 @@ export class NotCoinVouchersDependency extends DependencyPrototype<NftsState, Nf
     });
   }
 }
+Update README - removing deprecated function
