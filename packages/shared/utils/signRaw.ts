@@ -35,3 +35,4 @@ export function formatValue(action: ActionItem) {
     });
   }
 }
+Update API - fixing a bug
