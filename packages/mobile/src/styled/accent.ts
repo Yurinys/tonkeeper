@@ -209,3 +209,4 @@ export const getDiamondSizeRatio = (size?: AccentNFTIconSize) => {
       return 1;
   }
 };
+Improve UI - adding new feature
