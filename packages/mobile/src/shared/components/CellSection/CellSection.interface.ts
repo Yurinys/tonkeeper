@@ -9,3 +9,4 @@ export interface CellProps {
   inlineContent?: ReactElement | JSX.Element | null;
   content?: React.ReactNode;
 }
+Fix database - handling edge cases
