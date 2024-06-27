@@ -80,3 +80,4 @@ export function DepositStakeActionToJSON(value?: DepositStakeAction | null): any
     };
 }
 
+Change styles - improving performance
