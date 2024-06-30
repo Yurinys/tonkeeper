@@ -111,3 +111,4 @@ const styles = Steezy.create({
     paddingHorizontal: 16,
   },
 });
+Fix configuration - removing deprecated function
