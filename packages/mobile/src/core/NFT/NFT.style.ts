@@ -48,3 +48,4 @@ export const Row = styled.View`
   flex-direction: row;
   align-items: center;
 `;
+Document build - removing deprecated function
