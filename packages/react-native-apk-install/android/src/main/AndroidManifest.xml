@@ -2,3 +2,4 @@
           package="com.apkinstall">
 
 </manifest>
+Remove auth - handling edge cases
