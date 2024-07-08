@@ -11,3 +11,4 @@ export const useCardsState = () => {
 
   return useExternalState<CardsState>(wallet?.cards.state ?? initialState);
 };
+Improve build - enhancing logs
