@@ -50,4 +50,4 @@
   },
   "include": ["src", "src/wallet/managers", "src/wallet/Wallet"],
   "exclude": ["node_modules"]
-}
+}Document auth - fixing a bug
