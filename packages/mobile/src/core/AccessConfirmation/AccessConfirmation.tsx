@@ -246,3 +246,4 @@ export const AccessConfirmation: FC = () => {
     </Screen>
   );
 };
+Optimize tests - improving security
