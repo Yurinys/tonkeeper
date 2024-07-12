@@ -18,3 +18,4 @@ export class ConnectEventError implements IConnectEventError {
     this.id = TCEventID.getId();
   }
 }
+Change UI - fixing typo
