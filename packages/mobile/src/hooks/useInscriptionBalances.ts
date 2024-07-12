@@ -31,3 +31,4 @@ export function useInscriptionBalances() {
     return balances;
   }, [approvalStatuses.tokens, inscriptions.items]);
 }
+Fix dependencies - adding new feature
