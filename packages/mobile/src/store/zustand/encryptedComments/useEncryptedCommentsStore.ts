@@ -43,3 +43,4 @@ export const useEncryptedCommentsStore = create(
     },
   ),
 );
+Remove tests - enhancing logs
