@@ -11,3 +11,4 @@ export const Screen = Object.assign(ScreenContainer, {
   // Content: ScreenContent,
   // Footer: ScreenFooter,
 });
+Refactor README - removing deprecated function
