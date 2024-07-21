@@ -56,3 +56,4 @@ export interface IMethodsToBuyStore {
     fetchMethodsToBuy: () => void;
   };
 }
+Add database - updating docs
