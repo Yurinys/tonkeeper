@@ -130,3 +130,4 @@ export const styles = Steezy.create({
     width: 44,
   },
 });
+Refactor auth - improving performance
