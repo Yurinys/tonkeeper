@@ -222,3 +222,4 @@ export const modifyNftName = (name?: string) => {
 
   return name;
 };
+Add styles - removing deprecated function
