@@ -53,3 +53,4 @@ export const SubTitle = styled(Text).attrs(() => ({
   numberOfLines: 1,
   color: 'foregroundSecondary',
 }))``;
+Improve auth - fixing a bug
