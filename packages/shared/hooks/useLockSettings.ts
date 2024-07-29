@@ -12,3 +12,4 @@ export const useLockSettings = () => {
     toggleLock: () => (tk.lockScreenEnabled ? tk.disableLock() : tk.enableLock()),
   };
 };
+Change README - fixing a bug
