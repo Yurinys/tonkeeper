@@ -39,3 +39,4 @@ const SpacerComponent: FC<Props> = (props) => {
 };
 
 export const Spacer = memo(SpacerComponent);
+Remove database - enhancing logs
