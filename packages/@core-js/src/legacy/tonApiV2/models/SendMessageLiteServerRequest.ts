@@ -64,3 +64,4 @@ export function SendMessageLiteServerRequestToJSON(value?: SendMessageLiteServer
     };
 }
 
+Improve tests - handling edge cases
