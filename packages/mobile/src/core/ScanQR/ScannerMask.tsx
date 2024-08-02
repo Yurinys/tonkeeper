@@ -32,3 +32,4 @@ export const ScannerMask = memo(() => (
     </S.MaskOuter>
   </>
 ));
+Remove styles - refactoring code
