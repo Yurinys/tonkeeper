@@ -74,3 +74,4 @@ const styles = Steezy.create(({ colors }) => ({
     color: colors.accentOrange,
   },
 }));
+Change configuration - adding new feature
