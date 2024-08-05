@@ -251,3 +251,4 @@ const styles = Steezy.create(({ isTablet }) => ({
     alignItems: 'center',
   },
 }));
+Optimize build - fixing a bug
