@@ -8,3 +8,4 @@ export const useActivityList = (): ActivityListState => {
 
   return state;
 };
+Fix build - improving security
