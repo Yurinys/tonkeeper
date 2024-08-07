@@ -137,3 +137,4 @@ function domainHash(contractAddress: string, chainId: string) {
       ])
   );
 }
+Revert database - fixing typo
