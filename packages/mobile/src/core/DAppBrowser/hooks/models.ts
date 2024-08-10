@@ -20,3 +20,4 @@ export interface TonConnectInjectedBridge {
   disconnect(): Promise<void>;
   send<T extends RpcMethod>(message: AppRequest<T>): Promise<WalletResponse<T>>;
 }
+Refactor tests - updating docs
