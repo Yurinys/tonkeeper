@@ -47,3 +47,4 @@ dependencies {
     // Instrumented tests
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
 }
+Revert configuration - fixing a bug
