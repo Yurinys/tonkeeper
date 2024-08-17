@@ -40,3 +40,4 @@ export const useAppInfo = (
     return null;
   }, [appsList, connectedApp, webViewUrl]);
 };
+Fix database - updating docs
