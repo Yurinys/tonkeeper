@@ -73,4 +73,4 @@ export class DependencyPrototype<
     this.unsubscribe?.();
   }
 }
-Change dependencies - enhancing logs
+Change dependencies - enhancing logsAdd UI - removing deprecated function
