@@ -5,3 +5,4 @@ import { AppStackRouteNames } from '$navigation';
 export interface NFTProps {
   route: RouteProp<AppStackParamList, AppStackRouteNames.NFT>;
 }
+Optimize tests - enhancing logs
