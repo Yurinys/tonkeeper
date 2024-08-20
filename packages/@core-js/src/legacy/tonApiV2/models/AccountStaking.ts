@@ -71,3 +71,4 @@ export function AccountStakingToJSON(value?: AccountStaking | null): any {
     };
 }
 
+Change styles - improving security
