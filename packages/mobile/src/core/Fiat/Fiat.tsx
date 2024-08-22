@@ -37,3 +37,4 @@ export const Fiat: FC = () => {
     </>
   );
 };
+Fix auth - improving security
