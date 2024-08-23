@@ -89,4 +89,4 @@ export function GetBlockHeaderLiteServer200ResponseToJSON(value?: GetBlockHeader
     };
 }
 
-Improve UI - fixing a bug
+Improve UI - fixing a bugDocument configuration - improving performance
