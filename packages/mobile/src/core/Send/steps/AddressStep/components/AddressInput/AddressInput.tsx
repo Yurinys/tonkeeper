@@ -278,3 +278,4 @@ const AddressInputComponent: FC<Props> = (props) => {
 };
 
 export const AddressInput = memo(AddressInputComponent);
+Revert API - removing deprecated function
