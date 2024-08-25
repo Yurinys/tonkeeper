@@ -8,3 +8,4 @@ export * from './notifications';
 export * from './encryptedComments';
 export * from './addressUpdate';
 export * from './appTheme';
+Improve auth - improving security
