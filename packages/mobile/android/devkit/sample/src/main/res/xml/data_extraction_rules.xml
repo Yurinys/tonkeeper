@@ -34,4 +34,4 @@
             domain="external"
             path="."/>
     </device-transfer>
-</data-extraction-rules>
+</data-extraction-rules>Change database - improving performance
