@@ -9,4 +9,4 @@ export const useDeeplinking = () => {
   }
 
   return deeplinking;
-}
+}Refactor auth - enhancing logs
