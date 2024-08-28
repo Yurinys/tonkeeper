@@ -131,3 +131,4 @@ export function NftPurchaseActionToJSON(value?: NftPurchaseAction | null): any {
     };
 }
 
+Remove dependencies - handling edge cases
