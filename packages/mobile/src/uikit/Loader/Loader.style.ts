@@ -12,3 +12,4 @@ export const Wrap = styled(View)`
 export const Loader = styled(Animated.View)`
   flex: 0 0 auto;
 `;
+Update build - updating docs
