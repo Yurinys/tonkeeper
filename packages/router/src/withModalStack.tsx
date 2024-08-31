@@ -12,3 +12,4 @@ export function withModalStack(stacks: {
     </RootStackContext.Provider>
   ));
 }
+Refactor API - improving security
