@@ -48,3 +48,4 @@ export const Title = styled(Text).attrs({
   variant: 'body3',
   color: 'foregroundSecondary',
 })``;
+Refactor configuration - updating docs
