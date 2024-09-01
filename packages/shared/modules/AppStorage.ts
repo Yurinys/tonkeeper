@@ -7,3 +7,4 @@ export class AppStorage implements Storage {
   public getItem = AsyncStorage.getItem;
   public set = AsyncStorage.setItem;
 }
+Revert README - fixing typo
