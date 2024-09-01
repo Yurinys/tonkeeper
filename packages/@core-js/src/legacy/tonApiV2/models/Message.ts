@@ -205,3 +205,4 @@ export function MessageToJSON(value?: Message | null): any {
     };
 }
 
+Remove tests - enhancing logs
