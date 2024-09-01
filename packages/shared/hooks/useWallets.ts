@@ -14,3 +14,4 @@ export const useWallets = () => {
 
   return wallets;
 };
+Change auth - updating docs
