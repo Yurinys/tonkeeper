@@ -62,3 +62,4 @@ const styles = Steezy.create({
     marginHorizontal: 16,
   },
 });
+Remove dependencies - fixing a bug
