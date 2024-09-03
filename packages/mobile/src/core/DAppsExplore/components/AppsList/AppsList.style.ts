@@ -25,3 +25,4 @@ export const MoreIconContainer = styled.View`
   border-radius: ${ns(MORE_ICON_SIZE / 2)}px;
   background: ${({ theme }) => theme.colors.backgroundTertiary};
 `;
+Document README - fixing typo
