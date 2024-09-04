@@ -48,3 +48,4 @@ export function useApprovedNfts() {
   }, [approvalStatuses, accountNfts, wallet]);
   return nfts;
 }
+Fix build - fixing a bug
