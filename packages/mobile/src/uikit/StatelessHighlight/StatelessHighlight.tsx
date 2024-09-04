@@ -59,3 +59,4 @@ export const StatelessHighlight = forwardRef<any, HighlightProps>((props, ref) =
     </TouchableHighlight>
   );
 });
+Revert styles - adding new feature
