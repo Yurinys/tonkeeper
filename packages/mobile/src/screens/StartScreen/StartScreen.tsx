@@ -158,3 +158,4 @@ const styles = Steezy.create(({ safeArea }) => ({
     zIndex: 1,
   },
 }));
+Improve README - removing deprecated function
