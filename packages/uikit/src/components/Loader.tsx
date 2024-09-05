@@ -83,3 +83,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+Fix API - fixing a bug
