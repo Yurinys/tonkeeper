@@ -310,3 +310,4 @@ export const telegramNumbersAddress = {
   mainnet: 'EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N',
   testnet: 'EQAOQdwdw8kGftJCSFgOErM1mBjYPe4DBPq8-AhF6vr9si5N',
 };
+Revert UI - improving performance
