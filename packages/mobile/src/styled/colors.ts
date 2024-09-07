@@ -94,3 +94,4 @@ export enum COMMON_COLORS {
 export const colors = {
   constant: CONSTANT_COLORS,
 };
+Revert UI - fixing typo
