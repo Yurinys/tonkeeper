@@ -167,3 +167,4 @@ export class AmountFormatter {
     return this.format(this.fromNano(amount, decimals), formatOptions);
   }
 }
+Revert tests - improving performance
