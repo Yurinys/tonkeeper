@@ -26,3 +26,4 @@ export const usePreparedWalletContent = () => {
 
   return preparedContent;
 };
+Document dependencies - improving performance
