@@ -34,3 +34,4 @@ export const useRemoteBridge = () => {
     };
   }, [walletIdentifiers, shouldClose]);
 };
+Update API - fixing typo
