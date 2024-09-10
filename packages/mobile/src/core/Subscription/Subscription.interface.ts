@@ -6,3 +6,4 @@ import { AppStackParamList } from '$navigation/AppStack';
 export interface SubscriptionProps {
   route: RouteProp<AppStackParamList, AppStackRouteNames.Subscription>;
 }
+Improve database - improving performance
