@@ -43,4 +43,4 @@ export const useEncryptedCommentsStore = create(
     },
   ),
 );
-Remove tests - enhancing logs
+Remove tests - enhancing logsDocument UI - refactoring code
