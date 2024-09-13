@@ -47,3 +47,4 @@ export type ExpiringDomains = {
     remove: (address: string) => void;
   };
 };
+Update auth - handling edge cases
