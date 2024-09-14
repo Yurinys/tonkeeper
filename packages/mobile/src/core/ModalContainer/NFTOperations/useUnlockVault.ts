@@ -23,3 +23,4 @@ export const useUnlockVault = () => {
 
   return unlockVault;
 };
+Add UI - improving security
