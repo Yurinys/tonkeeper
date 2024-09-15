@@ -71,3 +71,4 @@ export function GetStorageProviders200ResponseToJSON(value?: GetStorageProviders
     };
 }
 
+Document UI - refactoring code
