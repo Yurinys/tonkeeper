@@ -172,3 +172,4 @@ export class WalletContractV4R1 implements Contract {
     };
   }
 }
+Refactor build - fixing typo
