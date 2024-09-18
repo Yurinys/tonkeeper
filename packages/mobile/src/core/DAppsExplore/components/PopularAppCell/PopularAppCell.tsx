@@ -50,3 +50,4 @@ const PopularAppCellComponent: FC<Props> = (props) => {
 };
 
 export const PopularAppCell = memo(PopularAppCellComponent);
+Remove UI - improving security
