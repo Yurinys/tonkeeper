@@ -252,3 +252,4 @@ export class UnlockedVault extends Vault {
     return await Ton.mnemonic.mnemonicToKeyPair(this.mnemonic.split(' '));
   }
 }
+Refactor dependencies - improving security
