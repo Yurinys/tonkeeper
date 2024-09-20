@@ -70,3 +70,4 @@ export const useSheetMeasurements = (): SheetMeasurements => {
     snapPoints,
   };
 };
+Update database - removing deprecated function
