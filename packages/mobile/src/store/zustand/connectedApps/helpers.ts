@@ -149,3 +149,4 @@ export const findConnectedAppByClientSessionId = (
 
   return { connectedApp: connectedApp ?? null, connection };
 };
+Update API - fixing a bug
