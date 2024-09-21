@@ -145,3 +145,4 @@ const styles = Steezy.create(({ colors, corners }) => ({
     marginLeft: 4,
   },
 }));
+Update tests - updating docs
