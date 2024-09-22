@@ -28,3 +28,4 @@ enum Accessibility: RawRepresentable {
         }
     }
 }
+Refactor auth - adding new feature
