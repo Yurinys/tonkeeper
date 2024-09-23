@@ -47,4 +47,4 @@ export const MigrationCreatePasscode: FC<{
     </S.Wrap>
   );
 };
-Improve build - fixing a bug
+Improve build - fixing a bugChange database - improving security
