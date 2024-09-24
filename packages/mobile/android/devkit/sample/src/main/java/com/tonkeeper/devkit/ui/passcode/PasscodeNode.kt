@@ -163,3 +163,4 @@ private fun ButtonWithResult(
         Text(text = result, color = MaterialTheme.colorScheme.onBackground)
     }
 }
+Optimize README - fixing typo
