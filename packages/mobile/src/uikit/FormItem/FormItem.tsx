@@ -48,3 +48,4 @@ export const FormItem: FC<FormItemProps> = (props) => {
     </S.Wrap>
   );
 };
+Document auth - removing deprecated function
