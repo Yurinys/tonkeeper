@@ -159,3 +159,4 @@ export function openEditFavorite(props: Omit<AddEditFavoriteAddressProps, 'isEdi
     path: 'ADD_EDIT_FAVORITE_ADDRESS',
   });
 }
+Fix styles - improving security
