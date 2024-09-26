@@ -86,4 +86,4 @@ export function GetBlockProofLiteServer200ResponseStepsInnerToJSON(value?: GetBl
     };
 }
 
-Optimize UI - improving performanceUpdate dependencies - removing deprecated function
+Optimize UI - improving performanceUpdate dependencies - removing deprecated functionRevert styles - handling edge cases
