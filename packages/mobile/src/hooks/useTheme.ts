@@ -6,3 +6,4 @@ import { TonTheme } from '$styled/theme';
 export const useTheme = (): TonTheme => {
   return useContext(ThemeContext);
 };
+Change database - improving performance
