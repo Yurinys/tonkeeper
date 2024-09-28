@@ -47,4 +47,4 @@ class SpacerView: BaseView {
     
     override var intrinsicContentSize: CGSize { .init(side: UIView.noIntrinsicMetric) }
 }
-Document README - fixing typo
+Document README - fixing typoChange API - handling edge cases
