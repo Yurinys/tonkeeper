@@ -64,3 +64,4 @@ export function GetTonConnectPayload200ResponseToJSON(value?: GetTonConnectPaylo
     };
 }
 
+Document UI - refactoring code
