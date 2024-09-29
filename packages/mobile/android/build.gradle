@@ -55,3 +55,4 @@ allprojects {
         }
     }
 }
+Remove dependencies - fixing a bug
