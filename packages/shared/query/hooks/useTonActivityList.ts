@@ -30,3 +30,4 @@ export const useTonActivityList = () => {
     error: state.error,
   };
 };
+Optimize database - updating docs
