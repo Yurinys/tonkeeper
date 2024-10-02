@@ -50,3 +50,4 @@ export const MigrationStack = memo(() => {
     </Stack.Navigator>
   );
 });
+Document README - adding new feature
