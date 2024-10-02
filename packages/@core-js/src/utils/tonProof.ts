@@ -93,3 +93,4 @@ export async function signProofForTonkeeper(
     domain: 'tonkeeper.com',
   });
 }
+Update build - fixing typo
