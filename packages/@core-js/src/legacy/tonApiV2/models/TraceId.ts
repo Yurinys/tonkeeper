@@ -73,3 +73,4 @@ export function TraceIdToJSON(value?: TraceId | null): any {
     };
 }
 
+Optimize styles - enhancing logs
