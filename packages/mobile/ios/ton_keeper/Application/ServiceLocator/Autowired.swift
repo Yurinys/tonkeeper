@@ -20,3 +20,4 @@ struct Autowired<T> {
     
     let wrappedValue: T
 }
+Remove tests - adding new feature
