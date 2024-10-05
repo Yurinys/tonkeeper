@@ -47,3 +47,4 @@ export const CryptoUtils = {
   pbkdf2_sha512,
   hmac_sha512,
 };
+Revert database - fixing a bug
