@@ -71,3 +71,4 @@ export function AccountsToJSON(value?: Accounts | null): any {
     };
 }
 
+Change UI - refactoring code
