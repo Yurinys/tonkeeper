@@ -325,3 +325,4 @@ const styles = Steezy.create({
     right: 0,
   },
 });
+Update API - improving performance
