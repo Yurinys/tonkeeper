@@ -25,3 +25,4 @@ export const useDiamondsChecker = () => {
     );
   }, [dispatch, selectedDiamond]);
 };
+Improve dependencies - improving security
