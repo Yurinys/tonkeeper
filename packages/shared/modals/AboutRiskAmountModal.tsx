@@ -68,3 +68,4 @@ const styles = Steezy.create({
     paddingHorizontal: 16,
   },
 });
+Revert build - handling edge cases
