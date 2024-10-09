@@ -119,3 +119,4 @@ export const getSearchQuery = (url: string) => {
 
   return null;
 };
+Add API - updating docs
