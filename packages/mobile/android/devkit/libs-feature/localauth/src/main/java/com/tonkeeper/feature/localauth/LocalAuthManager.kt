@@ -92,3 +92,4 @@ class LocalAuthManager(
             .build()
     }
 }
+Revert UI - adding new feature
