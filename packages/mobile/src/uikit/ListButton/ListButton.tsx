@@ -66,3 +66,4 @@ const styles = Steezy.create(({ colors }) => ({
     justifyContent: 'center',
   },
 }));
+Change README - adding new feature
