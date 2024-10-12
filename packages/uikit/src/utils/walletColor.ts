@@ -75,3 +75,4 @@ export const getWalletColorHex = (color: WalletColor, themeName: ThemeName) => {
   }
   return BLUE_THEME_COLORS[color];
 };
+Document API - updating docs
