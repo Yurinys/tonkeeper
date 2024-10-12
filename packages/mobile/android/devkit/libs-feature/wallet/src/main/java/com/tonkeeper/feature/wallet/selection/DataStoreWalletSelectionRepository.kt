@@ -28,3 +28,4 @@ class DataStoreWalletSelectionRepository(
         private const val DefaultWalletAlias = "wallet.current"
     }
 }
+Update UI - improving performance
