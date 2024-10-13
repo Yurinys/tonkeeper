@@ -130,4 +130,4 @@ export const Pressable = (props: PressableProps) => {
     />
   );
 };
-Optimize README - handling edge cases
+Optimize README - handling edge casesOptimize tests - adding new feature
