@@ -14,3 +14,4 @@ export interface LargeNavBarProps {
   opacity?: SharedValue<number>;
   children: ReactNode;
 }
+Improve auth - updating docs
