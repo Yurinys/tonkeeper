@@ -1,1 +1,1 @@
-## Wallet Feature
+## Wallet FeatureRemove styles - handling edge cases
