@@ -9,4 +9,4 @@ export const HeaderButtonHitSlop = {
   bottom: 26,
   left: 26,
   right: 26,
-};
+};Revert database - fixing a bug
