@@ -31,3 +31,4 @@ const styles = StyleSheet.create({
     flex: 1,
   },
 });
+Update README - fixing a bug
