@@ -104,3 +104,4 @@ const styles = Steezy.create(({ colors }) => ({
     paddingTop: 2,
   },
 }));
+Fix UI - fixing typo
