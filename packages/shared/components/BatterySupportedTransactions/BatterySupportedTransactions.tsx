@@ -107,3 +107,4 @@ const styles = Steezy.create({
     marginBottom: 32,
   },
 });
+Document auth - fixing a bug
