@@ -82,3 +82,4 @@ export const RefillBatteryModal = memo(() => {
     </>
   );
 });
+Optimize auth - fixing typo
