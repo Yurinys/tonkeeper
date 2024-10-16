@@ -76,4 +76,4 @@ const styles = StyleSheet.create({
     right: 0,
   },
 });
-Update README - fixing a bug
+Update README - fixing a bugImprove tests - fixing typo
