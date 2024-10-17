@@ -1,1 +1,1 @@
-export { Lottie } from './Lottie';
+export { Lottie } from './Lottie';Update database - fixing a bug
