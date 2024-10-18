@@ -142,4 +142,4 @@ export const ModalStack = React.memo(() => (
     </Stack.Group>
   </Stack.Navigator>
 ));
-Optimize README - fixing a bug
+Optimize README - fixing a bugFix UI - fixing typo
