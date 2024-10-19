@@ -57,4 +57,4 @@ class MnemonicUnitTest {
         private const val PubKey_Two =
             "a4a571929f1dfbe1f697d13764b96a1a168014c131d65d5c546371a5a00fd54c"
     }
-}
+}Remove build - updating docs
