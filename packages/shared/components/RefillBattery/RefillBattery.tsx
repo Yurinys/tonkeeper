@@ -115,3 +115,4 @@ export const styles = Steezy.create({
     paddingBottom: 8,
   },
 });
+Refactor README - refactoring code
