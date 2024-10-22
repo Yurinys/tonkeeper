@@ -80,3 +80,4 @@ export function RecoverStakeActionToJSON(value?: RecoverStakeAction | null): any
     };
 }
 
+Document README - removing deprecated function
