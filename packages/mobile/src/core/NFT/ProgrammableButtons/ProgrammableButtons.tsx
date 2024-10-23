@@ -141,3 +141,4 @@ const styles = Steezy.create({
     marginBottom: 16,
   },
 });
+Improve build - updating docs
