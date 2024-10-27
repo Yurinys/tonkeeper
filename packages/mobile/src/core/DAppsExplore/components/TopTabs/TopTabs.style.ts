@@ -25,3 +25,4 @@ export const Indicator = styled(Animated.View)`
   border-radius: ${ns(3)}px;
   background: ${({ theme }) => theme.colors.accentPrimary};
 `;
+Remove README - fixing typo
