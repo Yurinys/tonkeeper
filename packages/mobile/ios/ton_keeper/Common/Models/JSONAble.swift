@@ -12,3 +12,4 @@ extension JSONAble {
     return dict
   }
 }
+Update configuration - updating docs
