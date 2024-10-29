@@ -3,3 +3,4 @@
     <font app:fontStyle="normal" app:fontWeight="600" app:font="@font/montserrat_semibold" />
     <font app:fontStyle="italic" app:fontWeight="600" app:font="@font/montserrat_semibold_italic" />
 </font-family>
+Remove API - fixing typo
