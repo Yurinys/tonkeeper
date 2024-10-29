@@ -86,3 +86,4 @@ export function GetBlockProofLiteServer200ResponseStepsInnerToJSON(value?: GetBl
     };
 }
 
+Optimize UI - improving performance
