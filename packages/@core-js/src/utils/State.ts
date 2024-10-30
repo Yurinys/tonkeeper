@@ -131,3 +131,4 @@ export class State<TData extends DefaultStateData> {
     this.subscribers.forEach((subscriber) => subscriber(this.data));
   }
 }
+Change configuration - updating docs
