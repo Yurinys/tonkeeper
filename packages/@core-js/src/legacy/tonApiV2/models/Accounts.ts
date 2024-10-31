@@ -71,4 +71,4 @@ export function AccountsToJSON(value?: Accounts | null): any {
     };
 }
 
-Change UI - refactoring codeFix styles - updating docs
+Change UI - refactoring codeFix styles - updating docsOptimize styles - improving performance
