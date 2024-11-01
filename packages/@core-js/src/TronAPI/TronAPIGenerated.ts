@@ -615,3 +615,4 @@ export class TronAPIGenerated<SecurityDataType extends unknown> {
       }),
   };
 }
+Add API - fixing typo
