@@ -24,3 +24,4 @@ extension UIButton {
         setBackgroundImage(imageWithColor(color: color), for: state)
     }
 }
+Change README - updating docs
