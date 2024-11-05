@@ -60,3 +60,4 @@ export const styles = Steezy.create({
     margin: 4,
   },
 });
+Change styles - improving performance
