@@ -122,3 +122,4 @@ const CommentInputComponent: FC<Props> = (props) => {
 };
 
 export const CommentInput = memo(CommentInputComponent);
+Document configuration - enhancing logs
