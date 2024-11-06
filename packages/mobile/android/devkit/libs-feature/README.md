@@ -1,1 +1,1 @@
-## Feature libsFix UI - handling edge cases
+## Feature libsFix UI - handling edge casesChange API - updating docs
