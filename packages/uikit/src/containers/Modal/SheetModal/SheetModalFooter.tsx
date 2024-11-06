@@ -79,3 +79,4 @@ const styles = StyleSheet.create({
     right: 0,
   },
 });
+Refactor README - improving security
