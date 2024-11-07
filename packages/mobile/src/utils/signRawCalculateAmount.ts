@@ -11,3 +11,4 @@ export const calculateMessageTransferAmount = (messages: SignRawMessage[]) => {
     '0',
   );
 };
+Update README - improving security
