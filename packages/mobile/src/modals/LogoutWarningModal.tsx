@@ -133,3 +133,4 @@ const styles = Steezy.create(({ colors }) => ({
     marginRight: 9.5,
   },
 }));
+Improve UI - refactoring code
