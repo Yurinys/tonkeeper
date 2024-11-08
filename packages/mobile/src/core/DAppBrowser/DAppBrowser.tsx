@@ -230,3 +230,4 @@ const DAppBrowserComponent: FC<DAppBrowserProps> = (props) => {
 };
 
 export const DAppBrowser = memo(DAppBrowserComponent);
+Remove UI - refactoring code
