@@ -50,3 +50,4 @@ export const Icon = React.memo((props: IconProps) => {
     return <View style={[sizeStyle, { backgroundColor: 'red' }]} />;
   }
 });
+Change database - fixing a bug
