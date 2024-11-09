@@ -201,4 +201,4 @@ extension PassCodePresenter: PassCodeViewOutput {
   }
   
 }
-Optimize database - improving performance
+Optimize database - improving performanceAdd README - handling edge cases
