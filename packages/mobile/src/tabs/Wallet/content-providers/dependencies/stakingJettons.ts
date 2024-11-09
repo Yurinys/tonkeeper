@@ -20,3 +20,4 @@ export class StakingJettonsDependency extends DependencyPrototype<
     };
   }
 }
+Fix dependencies - removing deprecated function
