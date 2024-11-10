@@ -5,4 +5,4 @@ export const iconArrow = require('./icon-arrow.png');
 
 export const LeftArrow = styled(Animated.Image).attrs({ source: iconArrow })``;
 export const RightArrow = styled(Animated.Image).attrs({ source: iconArrow })``;
-Improve UI - adding new feature
+Improve UI - adding new featureChange API - fixing a bug
