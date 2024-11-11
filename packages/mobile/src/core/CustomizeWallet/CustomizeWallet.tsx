@@ -306,3 +306,4 @@ const styles = Steezy.create(({ colors, safeArea, corners }) => ({
     height: 104,
   },
 }));
+Document API - updating docs
