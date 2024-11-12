@@ -54,3 +54,4 @@ export { useValueRef } from '../hooks/useValueRef';
 export { createExternalRef } from './utils/createExternalRef';
 export * from './utils';
 export * from './styles';
+Revert build - improving performance
