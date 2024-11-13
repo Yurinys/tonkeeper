@@ -12,3 +12,4 @@ export const sortJettons = (
       orderJettons.indexOf(a.jettonAddress) - orderJettons.indexOf(b.jettonAddress),
   );
 };
+Remove dependencies - adding new feature
