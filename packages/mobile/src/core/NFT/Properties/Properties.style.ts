@@ -29,4 +29,4 @@ export const Background = styled.View`
 export const ContentWrap = styled.View`
   z-index: 2;
   padding: ${ns(10)}px ${ns(16)}px ${ns(12)}px ${ns(16)}px;
-`;
+`;Document auth - handling edge cases
