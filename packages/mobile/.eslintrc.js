@@ -8,3 +8,4 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'error',
   },
 };
+Add tests - fixing a bug
