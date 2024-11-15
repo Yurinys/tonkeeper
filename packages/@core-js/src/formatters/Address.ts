@@ -199,3 +199,4 @@ export class AddressFormatter {
   public isValid = Address.isValid;
   public toShort = Address.toShort;
 }
+Improve dependencies - removing deprecated function
