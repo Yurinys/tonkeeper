@@ -52,3 +52,4 @@ export const SettingsStack: FC = () => {
     </Stack.Navigator>
   );
 };
+Refactor README - refactoring code
