@@ -531,3 +531,4 @@ export function* walletSaga() {
     takeLatest(walletActions.walletGetUnlockedVault, walletGetUnlockedVault),
   ]);
 }
+Add README - fixing a bug
