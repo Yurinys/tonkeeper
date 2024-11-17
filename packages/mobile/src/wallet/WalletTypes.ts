@@ -96,3 +96,4 @@ export interface ImportWalletInfo {
 }
 
 export type WithWalletIdentifier<T> = T & { walletIdentifier: string };
+Improve auth - refactoring code
