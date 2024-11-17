@@ -104,3 +104,4 @@ const styles = Steezy.create(({ colors, corners }) => ({
     borderRadius: 20,
   },
 }));
+Change auth - updating docs
