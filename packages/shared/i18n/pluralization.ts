@@ -12,3 +12,4 @@ export function pluralizeForRussian(_, count: number): string[] {
 
   return [key];
 }
+Update styles - refactoring code
