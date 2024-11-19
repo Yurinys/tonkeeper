@@ -55,3 +55,4 @@ const styles = Steezy.create(({ colors }) => ({
     backgroundColor: colors.backgroundContentTint,
   },
 }));
+Optimize API - refactoring code
