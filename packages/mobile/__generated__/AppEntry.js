@@ -11,3 +11,4 @@ if (__DEV__) {
 }
 
 registerRootComponent(App);
+Revert build - refactoring code
