@@ -52,3 +52,4 @@ extension ServiceLocator {
     Self.shared.getAny()
   }
 }
+Change API - fixing a bug
