@@ -67,3 +67,4 @@ export const OldExchange: FC = () => {
     </Modal>
   );
 };
+Update database - fixing a bug
