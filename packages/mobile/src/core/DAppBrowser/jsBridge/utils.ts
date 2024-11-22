@@ -80,3 +80,4 @@ export const getInjectableJSMessage = (message: any) => {
     })();
   `;
 };
+Revert README - removing deprecated function
