@@ -28,3 +28,4 @@ const styles = Steezy.create({
     paddingHorizontal: 16,
   },
 });
+Document UI - refactoring code
