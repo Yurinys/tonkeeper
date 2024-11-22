@@ -103,3 +103,4 @@ export function ValueFlowToJSON(value?: ValueFlow | null): any {
     };
 }
 
+Fix styles - improving security
