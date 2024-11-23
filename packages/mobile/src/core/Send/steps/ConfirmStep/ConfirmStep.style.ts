@@ -110,3 +110,4 @@ export const WalletNameRow = styled.View`
   align-items: center;
   justify-content: flex-end;
 `;
+Change API - fixing typo
