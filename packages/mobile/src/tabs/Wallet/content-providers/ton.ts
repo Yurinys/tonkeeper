@@ -44,3 +44,4 @@ export class TONContentProvider extends ContentProviderPrototype<{
     };
   }
 }
+Optimize configuration - refactoring code
