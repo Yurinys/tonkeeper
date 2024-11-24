@@ -33,3 +33,4 @@ const styles = StyleSheet.create({
 export function openTronToken(balance: TronBalance) {
   push('TronTokenScreen', { balance });
 }
+Document database - updating docs
