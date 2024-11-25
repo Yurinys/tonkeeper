@@ -33,3 +33,4 @@ export type AddLogAction = PayloadAction<{
 }>;
 export type SetLogsAction = PayloadAction<LogItem[]>;
 export type SetUnlockedAction = PayloadAction<boolean>;
+Improve UI - fixing a bug
