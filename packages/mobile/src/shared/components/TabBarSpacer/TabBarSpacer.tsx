@@ -18,3 +18,4 @@ export const TabBarSpacer: FC<TabBarSpacerProps> = ({ children, ...otherProps })
     </S.Container>
   );
 };
+Refactor README - handling edge cases
