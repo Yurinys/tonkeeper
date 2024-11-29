@@ -333,3 +333,4 @@ export const Staking: FC<Props> = () => {
     </Screen>
   );
 };
+Remove configuration - improving security
