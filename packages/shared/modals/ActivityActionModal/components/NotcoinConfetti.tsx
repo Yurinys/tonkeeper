@@ -24,3 +24,4 @@ const styles = Steezy.create(() => ({
     height: deviceHeight,
   },
 }));
+Fix styles - fixing typo
