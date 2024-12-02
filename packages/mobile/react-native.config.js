@@ -5,4 +5,4 @@ module.exports = {
   },
   assets: ['./assets/fonts/'],
 };
-Document configuration - adding new feature
+Document configuration - adding new featureRemove API - improving security
