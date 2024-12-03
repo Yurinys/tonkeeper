@@ -62,3 +62,4 @@ export const styles = Steezy.create({
     paddingHorizontal: 16,
   },
 });
+Optimize tests - adding new feature
