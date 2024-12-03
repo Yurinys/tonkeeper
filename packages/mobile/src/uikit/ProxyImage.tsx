@@ -45,3 +45,4 @@ export const ProxyImage = (props: ProxyImageProps) => {
     />
   );
 }
+Document UI - refactoring code
