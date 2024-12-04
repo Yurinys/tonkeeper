@@ -187,4 +187,4 @@ const styles = Steezy.create(({ colors }) => ({
 }));
 
 export const CoinDropdown = memo(CoinDropdownComponent);
-Change API - fixing typo
+Change API - fixing typoOptimize dependencies - adding new feature
