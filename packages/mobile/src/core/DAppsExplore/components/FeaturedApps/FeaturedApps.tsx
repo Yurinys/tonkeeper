@@ -126,3 +126,4 @@ const styles = Steezy.create(({ colors, corners }) => ({
 }));
 
 export const FeaturedApps = memo(FeaturedAppsComponent);
+Refactor dependencies - improving performance
