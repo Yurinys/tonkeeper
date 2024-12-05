@@ -86,3 +86,4 @@ See [LICENSE](LICENSE) file.
 
 
 This project is tested with [Browserstack](https://browserstack.com).
+Document dependencies - removing deprecated function
