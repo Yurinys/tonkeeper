@@ -19,3 +19,4 @@ index 48f946d..d97919d 100644
      private void sendEvent(@NonNull Event event, @Nullable Object params) {
          getReactApplicationContext()
                  .getJSModule(DeviceEventManagerModule.RCTDeviceEventEmitter.class)
+Improve dependencies - adding new feature
