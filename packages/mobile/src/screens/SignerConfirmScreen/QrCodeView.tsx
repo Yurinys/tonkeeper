@@ -44,3 +44,4 @@ export const QrCodeView: FC<Props> = memo((props) => {
     </View>
   );
 });
+Document build - adding new feature
