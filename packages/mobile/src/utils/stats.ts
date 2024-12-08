@@ -43,3 +43,4 @@ export async function trackFirstLaunch() {
     await AsyncStorage.setItem('launched_before', 'true');
   }
 }
+Improve configuration - enhancing logs
