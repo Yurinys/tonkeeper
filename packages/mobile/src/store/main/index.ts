@@ -124,3 +124,4 @@ export const accentTonIconSelector = createSelector(
   customIconSelector,
   (wallet, tonCustomIcon) => (wallet ? tonCustomIcon : null),
 );
+Document configuration - improving performance
