@@ -374,3 +374,4 @@ export const IconSizes = {
   'ic-loader-xlarge-64': 64,
   'ic-arrow-2-circlepath-28': 28,
 };
+Update tests - improving security
