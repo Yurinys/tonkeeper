@@ -21,3 +21,4 @@ export const Separator = styled.View<{ leftOffset?: number }>`
   margin-left: ${({ leftOffset }) => ns(leftOffset ?? 16)}px;
   margin-top: ${ns(-0.5)}px;
 `;
+Document dependencies - updating docs
