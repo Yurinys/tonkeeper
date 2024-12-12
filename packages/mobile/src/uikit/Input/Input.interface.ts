@@ -23,3 +23,4 @@ export interface InputProps
   withPasteButton?: boolean;
   withClearButton?: boolean;
 }
+Improve tests - handling edge cases
