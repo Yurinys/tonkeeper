@@ -72,3 +72,4 @@ const AccentItemComponent: FC<Props> = (props) => {
 };
 
 export const AccentItem = memo(AccentItemComponent);
+Refactor README - enhancing logs
