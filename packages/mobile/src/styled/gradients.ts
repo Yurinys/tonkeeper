@@ -9,3 +9,4 @@ export const LIGHT_GRADIENTS = {
 export const DARK_GRADIENTS = {
   pink,
 };
+Change README - removing deprecated function
