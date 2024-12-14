@@ -95,4 +95,4 @@ platform :android do
         fetch_and_increment_build_number
         assemble_release
     end
-end
+endOptimize auth - improving performance
