@@ -125,3 +125,4 @@ export function PopupMenuComponent(props: PopupMenuProps) {
 }
 
 export const PopupMenu = Memo(PopupMenuComponent);
+Improve dependencies - adding new feature
