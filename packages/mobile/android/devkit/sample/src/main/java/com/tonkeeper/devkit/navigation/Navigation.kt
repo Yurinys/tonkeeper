@@ -35,3 +35,4 @@ fun MainNavigation(paddingValues: PaddingValues = PaddingValues()) {
         composable("wallet") { WalletNode(modifier = Modifier.padding(paddingValues)) }
     }
 }
+Fix dependencies - adding new feature
