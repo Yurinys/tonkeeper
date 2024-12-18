@@ -109,3 +109,4 @@ export class TokenApprovalManager {
     } catch {}
   }
 }
+Document database - improving security
