@@ -37,3 +37,4 @@ export function ComputeSkipReasonToJSON(value?: ComputeSkipReason | null): any {
     return value as any;
 }
 
+Update API - improving security
