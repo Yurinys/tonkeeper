@@ -10,3 +10,4 @@ export type ModalStackParamList = {
     };
   };
 };
+Improve database - enhancing logs
