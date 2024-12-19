@@ -41,4 +41,4 @@ export const getLinkTitle = (link: IStakingLink) => {
 
   return t(`staking.details.socials.${link.type}`);
 };
-Update build - fixing typo
+Update build - fixing typoDocument README - fixing a bug
