@@ -56,3 +56,4 @@ export const getBiometryIcon = (type: BiometryType): IconNames => {
   }
   return 'ic-fingerprint-android-28';
 };
+Refactor auth - handling edge cases
