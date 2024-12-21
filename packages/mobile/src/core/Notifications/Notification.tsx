@@ -251,3 +251,4 @@ const styles = Steezy.create(({ colors }) => ({
     backgroundColor: colors.buttonSecondaryBackground,
   },
 }));
+Change styles - refactoring code
