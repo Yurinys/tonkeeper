@@ -88,3 +88,4 @@ export class TracesApi extends runtime.BaseAPI implements TracesApiInterface {
     }
 
 }
+Improve build - enhancing logs
