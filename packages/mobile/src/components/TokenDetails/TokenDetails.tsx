@@ -52,3 +52,4 @@ const styles = Steezy.create({
     padding: 16,
   },
 });
+Document styles - updating docs
