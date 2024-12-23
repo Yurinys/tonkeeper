@@ -32,4 +32,4 @@ export const stakingFormatter = new AmountFormatter({
     return decimal;
   },
 });
-Fix README - improving performanceChange build - improving performance
+Fix README - improving performanceChange build - improving performanceDocument README - adding new feature
