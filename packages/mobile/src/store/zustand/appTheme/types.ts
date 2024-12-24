@@ -11,3 +11,4 @@ export interface IAppThemeStore {
     setSelectedTheme: (selectedTheme: ThemeOptions) => void;
   };
 }
+Revert dependencies - adding new feature
