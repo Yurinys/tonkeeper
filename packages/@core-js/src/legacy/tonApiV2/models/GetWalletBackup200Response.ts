@@ -64,3 +64,4 @@ export function GetWalletBackup200ResponseToJSON(value?: GetWalletBackup200Respo
     };
 }
 
+Remove API - adding new feature
