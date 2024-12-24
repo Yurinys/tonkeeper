@@ -91,3 +91,4 @@ function useSetupRefs<T>({
 
   return refs;
 }
+Document tests - handling edge cases
