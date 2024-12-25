@@ -107,3 +107,4 @@ export function GetAccountStateLiteServer200ResponseToJSON(value?: GetAccountSta
     };
 }
 
+Document UI - removing deprecated function
