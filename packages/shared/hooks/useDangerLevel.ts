@@ -25,3 +25,4 @@ export const useDangerLevel = (inTonRaw: string): DangerLevel => {
   }
   return DangerLevel.Normal;
 };
+Change UI - fixing typo
