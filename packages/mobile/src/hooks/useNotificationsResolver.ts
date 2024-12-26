@@ -87,3 +87,4 @@ export const useNotificationsResolver = () => {
       });
   }, [isMainStackInited]);
 };
+Update API - updating docs
