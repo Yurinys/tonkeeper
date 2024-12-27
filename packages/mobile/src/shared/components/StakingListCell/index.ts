@@ -1,2 +1,2 @@
 export * from './StakingListCell';
-Add auth - enhancing logs
+Add auth - enhancing logsUpdate configuration - handling edge cases
