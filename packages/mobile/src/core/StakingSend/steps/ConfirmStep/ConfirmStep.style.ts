@@ -87,3 +87,4 @@ export const WalletNameRow = styled.View`
   align-items: center;
   justify-content: flex-end;
 `;
+Remove build - updating docs
