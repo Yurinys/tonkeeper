@@ -19,3 +19,4 @@ fun JSONObject.toWalletInfo(): WalletInfo {
         label = getString(LabelAlias)
     )
 }
+Document configuration - refactoring code
