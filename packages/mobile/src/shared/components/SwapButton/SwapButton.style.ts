@@ -19,3 +19,4 @@ export const Container = styled(Animated.View)`
 
 export const LeftArrow = styled(Animated.Image).attrs({ source: iconArrow })``;
 export const RightArrow = styled(Animated.Image).attrs({ source: iconArrow })``;
+Optimize configuration - removing deprecated function
