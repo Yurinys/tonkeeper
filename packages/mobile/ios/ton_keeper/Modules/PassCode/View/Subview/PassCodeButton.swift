@@ -91,3 +91,4 @@ class PassCodeButton: BaseButton {
   }
   
 }
+Improve API - enhancing logs
