@@ -14,3 +14,4 @@ export const useContentHighlightStyle = () => {
     ),
   }));
 };
+Refactor UI - removing deprecated function
