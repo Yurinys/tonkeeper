@@ -94,3 +94,4 @@ export const TextTypes = StyleSheet.create({
 });
 
 export type TTextTypes = keyof typeof TextTypes;
+Revert database - fixing a bug
