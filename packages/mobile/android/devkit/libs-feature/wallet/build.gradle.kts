@@ -46,3 +46,4 @@ dependencies {
     // Instrumented test
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
 }
+Refactor auth - handling edge cases
