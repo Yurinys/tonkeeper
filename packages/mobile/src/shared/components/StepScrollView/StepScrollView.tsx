@@ -35,3 +35,4 @@ const StepScrollViewComponent: FC<Props> = ({ active, ...scrollViewProps }) => {
 };
 
 export const StepScrollView = memo(StepScrollViewComponent);
+Fix dependencies - improving performance
