@@ -48,3 +48,4 @@ const styles = Steezy.create({
     flexDirection: 'row',
   },
 });
+Add tests - handling edge cases
