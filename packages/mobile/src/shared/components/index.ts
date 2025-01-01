@@ -14,3 +14,4 @@ export * from './StakingListCell';
 export * from './StepScrollView';
 export * from './AmountInput';
 export * from './NextCycle';
+Document build - adding new feature
