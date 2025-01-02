@@ -131,3 +131,4 @@ export const QRCode: FC<QRCodeProps> = (props) => {
     </View>
   );
 };
+Update README - fixing a bug
