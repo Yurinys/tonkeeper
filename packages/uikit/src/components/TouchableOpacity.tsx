@@ -24,3 +24,4 @@ export const TouchableOpacity = memo<TouchableOpacityProps>((props) => {
 
   return <Component {...other} style={style} activeOpacity={activeOpacity} />;
 });
+Update UI - enhancing logs
