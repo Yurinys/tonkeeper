@@ -62,4 +62,4 @@ const SearchBarComponent: FC<Props> = (props) => {
 };
 
 export const SearchBar = memo(SearchBarComponent);
-Optimize README - handling edge cases
+Optimize README - handling edge casesDocument README - adding new feature
