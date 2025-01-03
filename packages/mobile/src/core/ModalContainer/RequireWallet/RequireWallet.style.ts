@@ -25,3 +25,4 @@ export const LottieIcon = styled(LottieView)`
   width: ${ns(120)}px;
   height: ${ns(120)}px;
 `;
+Fix configuration - updating docs
