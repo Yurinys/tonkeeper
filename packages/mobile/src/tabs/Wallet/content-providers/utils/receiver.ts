@@ -148,3 +148,4 @@ export class WalletContentReceiver {
     };
   }
 }
+Change UI - refactoring code
