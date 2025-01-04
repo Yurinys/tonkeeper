@@ -71,3 +71,4 @@ export const DarkTheme = {
   constantBlue: '#0077FF',
   constantRed: '#FF3B30',
 };
+Remove auth - fixing typo
