@@ -10,3 +10,4 @@ export const usePageIndex = () => {
 
   return tab;
 };
+Change styles - fixing a bug
