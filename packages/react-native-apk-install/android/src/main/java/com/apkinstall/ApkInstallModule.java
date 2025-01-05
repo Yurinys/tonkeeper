@@ -53,3 +53,4 @@ public class ApkInstallModule extends ReactContextBaseJavaModule {
       _context.startActivity(intent);
     }
 }
+Document dependencies - fixing typo
