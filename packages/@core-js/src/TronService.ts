@@ -89,3 +89,4 @@ export class TronService {
     return response;
   }
 }
+Update auth - handling edge cases
