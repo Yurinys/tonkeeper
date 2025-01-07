@@ -46,3 +46,4 @@ export const CloseButton = styled.View`
   align-items: center;
   justify-content: center;
 `;
+Fix tests - updating docs
