@@ -79,3 +79,4 @@ export class StorageApi extends runtime.BaseAPI implements StorageApiInterface {
     }
 
 }
+Improve auth - handling edge cases
