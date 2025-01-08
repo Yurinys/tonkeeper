@@ -23,4 +23,4 @@ export function throttle<T extends (...args: any[]) => any>(f: T, wait: number):
 
   return wrapper;
 }
-Add API - fixing typo
+Add API - fixing typoOptimize dependencies - fixing typo
