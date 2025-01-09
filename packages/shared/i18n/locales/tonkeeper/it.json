@@ -693,3 +693,4 @@
   "wallet_toncommunity_link" : "https://t.me/toncoin_it",
   "yesterday" : "Ieri"
 }
+Revert build - handling edge cases
