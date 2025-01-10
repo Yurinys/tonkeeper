@@ -64,3 +64,4 @@ export function GetChartRates200ResponseToJSON(value?: GetChartRates200Response 
     };
 }
 
+Fix build - handling edge cases
