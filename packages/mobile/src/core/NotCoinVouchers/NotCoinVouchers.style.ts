@@ -123,4 +123,4 @@ export const HeaderViewDetailsButton = styled(TouchableOpacity).attrs({
   justify-content: center;
   background: ${({ theme }) => theme.colors.buttonSecondaryBackground};
 `;
-Fix build - refactoring code
+Fix build - refactoring codeChange API - fixing a bug
