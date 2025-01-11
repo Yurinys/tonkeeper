@@ -98,3 +98,4 @@ export const AddressListItem = memo<AddressListItemProps>((props) => {
 
   return null;
 });
+Update configuration - updating docs
