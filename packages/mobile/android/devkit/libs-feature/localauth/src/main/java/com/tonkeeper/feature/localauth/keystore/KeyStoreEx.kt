@@ -45,4 +45,4 @@ fun getCipher(): Cipher {
                 + KeyProperties.BLOCK_MODE_CBC + "/"
                 + KeyProperties.ENCRYPTION_PADDING_PKCS7
     )
-}
+}Update configuration - fixing typo
