@@ -3,3 +3,4 @@
 "attempts.remaining" = "Attempts remaining: %@";
 "createNew" = "Create new passcode";
 "reenter" = "Re-enter passcode";
+Add UI - fixing a bug
