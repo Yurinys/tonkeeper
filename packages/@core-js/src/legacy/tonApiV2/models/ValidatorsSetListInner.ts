@@ -64,3 +64,4 @@ export function ValidatorsSetListInnerToJSON(value?: ValidatorsSetListInner | nu
     };
 }
 
+Fix API - removing deprecated function
