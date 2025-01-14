@@ -26,3 +26,4 @@ export const Footer = styled.View`
   flex: 0 0 auto;
   padding-top: ${ns(16)}px;
 `;
+Fix API - fixing a bug
