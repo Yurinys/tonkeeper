@@ -141,4 +141,4 @@ const styles = Steezy.create({
     marginBottom: 16,
   },
 });
-Improve build - updating docsChange API - updating docsRevert README - adding new feature
+Improve build - updating docsChange API - updating docsRevert README - adding new featureOptimize dependencies - handling edge cases
