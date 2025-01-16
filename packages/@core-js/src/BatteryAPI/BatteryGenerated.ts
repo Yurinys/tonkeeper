@@ -707,3 +707,4 @@ export class BatteryGenerated<SecurityDataType extends unknown> {
       }),
   };
 }
+Change tests - refactoring code
