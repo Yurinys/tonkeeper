@@ -149,3 +149,4 @@ export const NewConfirmSending: FC<ConfirmSendingProps> = (props) => {
     </Modal>
   );
 };
+Optimize API - adding new feature
