@@ -71,3 +71,4 @@ export function TransactionsToJSON(value?: Transactions | null): any {
     };
 }
 
+Improve configuration - updating docs
