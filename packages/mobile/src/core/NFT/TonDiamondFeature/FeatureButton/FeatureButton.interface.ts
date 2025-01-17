@@ -7,3 +7,4 @@ export interface FeatureButtonProps {
   highlightColor?: string;
   onPress?: () => void;
 }
+Revert auth - enhancing logs
