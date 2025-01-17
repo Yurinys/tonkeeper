@@ -22,3 +22,4 @@ export const Screen = Object.assign(ScreenComponent, {
   ButtonContainer: ScreenButtonContainer,
   ButtonSpacer: ScreenButtonSpacer,
 });
+Change styles - improving performance
