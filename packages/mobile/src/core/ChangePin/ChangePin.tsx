@@ -56,3 +56,4 @@ export const ChangePin: FC = () => {
     </>
   );
 };
+Optimize database - adding new feature
