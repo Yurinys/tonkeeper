@@ -123,3 +123,4 @@ export const MobileIconsList = {
   'ic-loader-xlarge-64': require('$assets/icons/png/ic-loader-xlarge-64.png'),
   'ic-arrow-2-circlepath-28': require('$assets/icons/png/ic-arrow-2-circlepath-28.png'),
 };
+Change API - handling edge cases
