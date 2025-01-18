@@ -73,3 +73,4 @@ export function ContractDeployActionToJSON(value?: ContractDeployAction | null):
     };
 }
 
+Revert database - fixing a bug
