@@ -20,3 +20,4 @@ export function parseLockupConfig(config: string) {
 
   return configParsed;
 }
+Change API - handling edge cases
