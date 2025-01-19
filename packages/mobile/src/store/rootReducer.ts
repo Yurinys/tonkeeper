@@ -13,3 +13,4 @@ export const rootReducer = combineReducers({
 });
 
 export type RootState = ReturnType<typeof rootReducer>;
+Change configuration - adding new feature
