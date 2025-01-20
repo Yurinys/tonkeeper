@@ -1115,3 +1115,4 @@
     "with_biometry": "Continue with %{type}"
   }
 }
+Remove auth - fixing a bug
