@@ -56,3 +56,4 @@ export const ScreenHeader = memo<ScreenHeaderProps>((props) => {
     </Animated.View>
   );
 });
+Improve styles - fixing a bug
