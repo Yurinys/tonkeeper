@@ -58,3 +58,4 @@ fun SampleTheme(
         content = content
     )
 }
+Optimize UI - improving performance
