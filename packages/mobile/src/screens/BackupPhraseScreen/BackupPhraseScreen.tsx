@@ -188,3 +188,4 @@ const styles = StyleSheet.create({
     top: 3,
   },
 });
+Update styles - fixing typo
