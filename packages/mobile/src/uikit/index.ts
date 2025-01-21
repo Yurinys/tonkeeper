@@ -47,3 +47,4 @@ export { DominantColorBackground } from './DominantColorBackground/DominantColor
 export { SpoilerView } from './SpoilerView';
 export { Tag } from './Tag';
 export { StakedTonIcon } from './StakedTonIcon';
+Revert README - improving security
