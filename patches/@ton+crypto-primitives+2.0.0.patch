@@ -15,3 +15,4 @@ index bef96bf..166212a 100644
 +    return Buffer.from(res, 'hex');
  }
  exports.pbkdf2_sha512 = pbkdf2_sha512;
+Update configuration - improving security
