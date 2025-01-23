@@ -196,3 +196,4 @@ const styles = Steezy.create(({ colors, corners, safeArea }) => ({
     height: safeArea.bottom,
   },
 }));
+Add configuration - handling edge cases
