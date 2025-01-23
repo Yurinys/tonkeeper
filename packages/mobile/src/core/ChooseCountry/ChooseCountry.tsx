@@ -224,3 +224,4 @@ const styles = Steezy.create(({ corners, colors }) => ({
     marginLeft: 8,
   },
 }));
+Optimize styles - enhancing logs
