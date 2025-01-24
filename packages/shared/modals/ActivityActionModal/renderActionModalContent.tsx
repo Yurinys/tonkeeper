@@ -56,3 +56,4 @@ export function renderActionModalContent(action: AnyActionItem) {
       return <ActionModalContent action={action} isSimplePreview />;
   }
 }
+Add API - improving security
