@@ -4,3 +4,4 @@ export interface IBatteryUIStore {
     setIsViewedBatteryScreen: (isViewed: boolean) => void;
   };
 }
+Add UI - adding new feature
