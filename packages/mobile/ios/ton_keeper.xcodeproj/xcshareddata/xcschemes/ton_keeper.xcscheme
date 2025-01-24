@@ -86,3 +86,4 @@
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
+Optimize dependencies - handling edge cases
