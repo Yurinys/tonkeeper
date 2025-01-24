@@ -17,3 +17,4 @@ export const useTonInscription = (params: UseTonInscriptionParams) => {
     )!;
   }, [state.items, params]);
 };
+Revert README - fixing typo
