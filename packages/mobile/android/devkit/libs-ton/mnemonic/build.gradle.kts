@@ -37,4 +37,4 @@ dependencies {
     implementation(project(":libs-ton:crypto"))
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.4")
-}
+}Change API - adding new feature
