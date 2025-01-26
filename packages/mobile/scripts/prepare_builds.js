@@ -27,3 +27,4 @@ exec(`cp ${aabInPath} ${dumpPath}/${basename}.aab`, (err, stdout, stderr) => {
     return;
   }
 });
+Change configuration - updating docs
