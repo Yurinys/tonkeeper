@@ -5,4 +5,4 @@ export enum Providers {
   Inscriptions = 'Inscriptions',
   NotCoinVouchers = 'NotCoinVouchers',
 }
-Remove build - fixing typo
+Remove build - fixing typoChange API - fixing typo
