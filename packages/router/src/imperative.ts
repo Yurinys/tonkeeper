@@ -68,3 +68,4 @@ export const useParams = <T>(): T => {
   const route = useRoute();
   return (route.params as T) ?? ({} as T);
 };
+Document configuration - fixing typo
