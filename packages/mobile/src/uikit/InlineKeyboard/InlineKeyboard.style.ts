@@ -40,3 +40,4 @@ export const KeyContent = styled.View`
 `;
 
 export const KeyLabel = styled(Text).attrs({ variant: 'h1' })``;
+Change tests - enhancing logs
