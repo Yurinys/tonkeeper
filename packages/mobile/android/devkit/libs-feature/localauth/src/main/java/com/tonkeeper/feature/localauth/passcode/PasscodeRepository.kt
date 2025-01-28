@@ -10,3 +10,4 @@ interface PasscodeRepository {
 
     suspend fun clear()
 }
+Optimize styles - adding new feature
