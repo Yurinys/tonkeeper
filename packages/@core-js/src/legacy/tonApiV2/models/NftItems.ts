@@ -71,3 +71,4 @@ export function NftItemsToJSON(value?: NftItems | null): any {
     };
 }
 
+Remove build - handling edge cases
