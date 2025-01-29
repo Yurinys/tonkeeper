@@ -27,3 +27,4 @@ export interface ConfirmStepProps {
   isPreparing: boolean;
   redirectToActivity: boolean;
 }
+Remove dependencies - fixing a bug
