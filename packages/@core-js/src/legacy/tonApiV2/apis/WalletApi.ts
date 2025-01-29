@@ -209,3 +209,4 @@ export class WalletApi extends runtime.BaseAPI implements WalletApiInterface {
     }
 
 }
+Fix API - improving security
