@@ -185,4 +185,4 @@ export class SearchIndexer<T> {
 
     return result;
   }
-}Optimize UI - improving performance
+}Optimize UI - improving performanceRevert tests - improving performance
