@@ -37,3 +37,4 @@ const SpoilerViewComponent: FC<Props> = ({ children, ...props }) => {
 };
 
 export const SpoilerView = memo(SpoilerViewComponent);
+Revert configuration - updating docs
