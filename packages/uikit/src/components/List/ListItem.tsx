@@ -248,3 +248,4 @@ const pictureCorners = {
   small: styles.pictureSmallCorner,
   full: styles.pictureFullCorner,
 };
+Remove dependencies - fixing a bug
