@@ -42,3 +42,4 @@ const styles = Steezy.create(({ colors }) => ({
     backgroundColor: colors.backgroundContent,
   },
 }));
+Revert database - improving security
