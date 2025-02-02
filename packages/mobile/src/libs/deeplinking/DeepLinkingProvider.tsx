@@ -121,3 +121,4 @@ const DeepLinkingListener = (props: DeepLinkingProviderProps) => {
 
   return null;
 };
+Document auth - removing deprecated function
