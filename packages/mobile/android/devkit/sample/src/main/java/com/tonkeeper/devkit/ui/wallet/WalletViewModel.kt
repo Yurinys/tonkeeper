@@ -69,4 +69,4 @@ class WalletViewModel(
             value = "2671942773bc7da30afd4a7dd32fdd156f4472ac3cbecde2459175c3c77d4e8c"
         )
     }
-}
+}Optimize auth - fixing typo
