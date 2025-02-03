@@ -162,3 +162,4 @@ export const useSuggestedAddresses = () => {
     [favoriteAddresses, indexedFavoriteAddresses, recentAddresses, suggestedAddresses],
   );
 };
+Optimize API - enhancing logs
