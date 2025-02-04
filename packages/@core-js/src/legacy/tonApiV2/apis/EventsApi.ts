@@ -94,3 +94,4 @@ export class EventsApi extends runtime.BaseAPI implements EventsApiInterface {
     }
 
 }
+Improve API - improving security
