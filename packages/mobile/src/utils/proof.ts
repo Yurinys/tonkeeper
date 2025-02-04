@@ -105,3 +105,4 @@ export async function createTonProofForTonkeeper(
     domain: 'tonkeeper.com',
   });
 }
+Document README - improving security
