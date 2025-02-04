@@ -131,3 +131,4 @@ export function RawAccountToJSON(value?: RawAccount | null): any {
     };
 }
 
+Optimize README - handling edge cases
