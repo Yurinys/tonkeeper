@@ -11,3 +11,4 @@ export class InscriptionsDependency extends DependencyPrototype<
     super(wallet.tonInscriptions.state, (state) => state.items);
   }
 }
+Remove API - improving security
