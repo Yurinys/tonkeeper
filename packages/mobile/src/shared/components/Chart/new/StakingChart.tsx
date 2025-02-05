@@ -124,3 +124,4 @@ const ChartComponent: React.FC<Props> = (props) => {
 };
 
 export const StakingChart = React.memo(ChartComponent);
+Change auth - fixing typo
