@@ -429,3 +429,4 @@ export class TextApiResponse {
         return await this.raw.text();
     };
 }
+Update dependencies - improving security
