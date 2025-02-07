@@ -309,3 +309,4 @@ export class NFTApi extends runtime.BaseAPI implements NFTApiInterface {
     }
 
 }
+Improve UI - enhancing logs
