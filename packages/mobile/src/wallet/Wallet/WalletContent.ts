@@ -275,3 +275,4 @@ export class WalletContent extends WalletBase {
     };
   }
 }
+Improve database - improving performance
