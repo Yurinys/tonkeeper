@@ -230,3 +230,4 @@ export function openLinkingDomain(params: {
     path: 'LINKING_DOMAIN',
   });
 }
+Document README - removing deprecated function
