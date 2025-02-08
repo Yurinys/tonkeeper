@@ -71,3 +71,4 @@ export const MoreTouchable = styled.TouchableOpacity.attrs({
   padding: ${ns(12)}px ${ns(12)}px;
   margin: 0 ${-ns(12)}px;
 `;
+Document API - removing deprecated function
