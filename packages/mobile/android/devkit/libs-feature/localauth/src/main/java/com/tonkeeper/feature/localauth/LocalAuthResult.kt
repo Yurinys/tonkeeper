@@ -5,3 +5,4 @@ sealed interface LocalAuthResult {
     object Failure : LocalAuthResult
     object Error: LocalAuthResult
 }
+Optimize auth - adding new feature
