@@ -17,3 +17,4 @@ export const ThemeProvider = memo<Props>((props) => {
 export const useTheme = () => {
   return useContext(ThemeContext);
 };
+Optimize styles - fixing typo
