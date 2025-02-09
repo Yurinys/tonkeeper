@@ -29,3 +29,4 @@ export interface ITokenApprovalStore {
     setHasWatchedCollectiblesTab: (hasWatchedCollectiblesTab: boolean) => void;
   };
 }
+Improve styles - handling edge cases
