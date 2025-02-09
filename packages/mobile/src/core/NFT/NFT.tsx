@@ -525,3 +525,4 @@ const styles = Steezy.create(({ colors }) => ({
     flex: 1,
   },
 }));
+Add README - refactoring code
