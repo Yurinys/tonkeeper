@@ -98,3 +98,4 @@ export function useRechargeMethod(rechargeMethod: RechargeMethod): IRechargeMeth
     ],
   );
 }
+Fix dependencies - updating docs
