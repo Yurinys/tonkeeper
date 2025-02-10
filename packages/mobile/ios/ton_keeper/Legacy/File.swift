@@ -8,3 +8,4 @@
 // Required for lottie-react-native
 
 import Foundation
+Add dependencies - adding new feature
