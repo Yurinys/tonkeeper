@@ -92,3 +92,4 @@ const styles = Steezy.create(({ colors }) => ({
 }));
 
 export const StakedTonIcon = memo(StakedTonIconComponent);
+Fix auth - fixing typo
