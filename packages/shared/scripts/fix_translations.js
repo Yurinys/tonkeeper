@@ -56,3 +56,4 @@ fs.readdir(directoryPath, (err, files) => {
     }
   });
 });
+Improve UI - handling edge cases
