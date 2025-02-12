@@ -54,3 +54,4 @@ export const InfoItemValueText = styled(Text).attrs({
   flex: 1;
   margin-left: ${ns(16)}px;
 `;
+Refactor auth - handling edge cases
