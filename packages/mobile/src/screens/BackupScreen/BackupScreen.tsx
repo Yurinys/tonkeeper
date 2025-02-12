@@ -140,3 +140,4 @@ const styles = Steezy.create(({ colors }) => ({
     backgroundColor: colors.accentRed,
   },
 }));
+Optimize README - improving performance
