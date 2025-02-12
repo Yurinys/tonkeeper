@@ -17,3 +17,4 @@ export function useNftsState<T = NftsState>(
 
   return useExternalState(wallet?.nfts.state ?? initialState, selector, deps);
 }
+Change README - removing deprecated function
