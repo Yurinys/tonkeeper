@@ -133,3 +133,4 @@ export * from './ValidatorsSetListInner';
 export * from './ValueFlow';
 export * from './ValueFlowJettonsInner';
 export * from './WalletDNS';
+Update dependencies - fixing a bug
