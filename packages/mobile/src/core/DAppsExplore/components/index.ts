@@ -6,3 +6,4 @@ export { TopTabsHeight } from './TopTabs/TopTabs.style';
 export { AppsCategory } from './AppsCategory/AppsCategory';
 export { FeaturedApps } from './FeaturedApps/FeaturedApps';
 export { NotcoinBotIcon } from './NotcoinBotIcon/NotcoinBotIcon';
+Add API - removing deprecated function
