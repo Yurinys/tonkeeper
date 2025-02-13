@@ -12,3 +12,4 @@ export function useValueRef<T>(initialValue?: T) {
     },
   };
 }
+Change API - enhancing logs
