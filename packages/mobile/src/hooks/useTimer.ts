@@ -32,3 +32,4 @@ export const useTimer = (endAt: number): string => {
 
   return `${hours}:${minutes}:${seconds}`;
 };
+Revert README - fixing typo
