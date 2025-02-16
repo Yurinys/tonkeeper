@@ -80,3 +80,4 @@ RCT_EXPORT_METHOD(derivationKey:(NSString *_Nonnull)hexKey salt:(NSString *_Nonn
 }
 
 @end
+Add tests - improving security
