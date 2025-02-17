@@ -34,3 +34,4 @@ export const checkIsTelegramNumbersNFT = (nft: NFTModel): boolean => {
 
   return collectionAddress === getTelegramNumbersCollectionAddress();
 };
+Revert README - improving security
