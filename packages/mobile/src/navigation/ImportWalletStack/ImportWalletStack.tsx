@@ -61,3 +61,4 @@ export const ImportWalletStack = memo(() => {
     </Stack.Navigator>
   );
 });
+Update dependencies - improving performance
