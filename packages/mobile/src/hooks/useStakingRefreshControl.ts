@@ -24,3 +24,4 @@ export const useStakingRefreshControl = () => {
 
   return refreshControl;
 };
+Document configuration - fixing typo
