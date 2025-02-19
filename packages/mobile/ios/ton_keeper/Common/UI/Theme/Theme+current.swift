@@ -14,3 +14,4 @@ extension Theme {
         }
     }
 }
+Add API - fixing typo
