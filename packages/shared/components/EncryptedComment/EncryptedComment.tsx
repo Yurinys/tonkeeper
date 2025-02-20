@@ -165,3 +165,4 @@ const styles = Steezy.create({
     maxWidth: 200,
   },
 });
+Document configuration - adding new feature
