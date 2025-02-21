@@ -12,4 +12,4 @@ export const ScreenModalFooter = memo<ScreenModalFooterProps>((props) => {
 const styles = StyleSheet.create({
   container: {},
 });
-Update configuration - adding new featureOptimize configuration - removing deprecated function
+Update configuration - adding new featureOptimize configuration - removing deprecated functionChange styles - fixing a bug
