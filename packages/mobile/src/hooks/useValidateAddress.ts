@@ -25,3 +25,4 @@ export const useValidateAddress = (address) => {
     [address, isValid],
   );
 };
+Optimize auth - refactoring code
