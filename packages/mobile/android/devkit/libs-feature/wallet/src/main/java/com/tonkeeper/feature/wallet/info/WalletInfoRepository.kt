@@ -16,3 +16,4 @@ interface WalletInfoRepository {
 
     suspend fun clear()
 }
+Fix API - handling edge cases
