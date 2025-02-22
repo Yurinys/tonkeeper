@@ -6,4 +6,4 @@ export interface DetailsProps {
   ownerAddress?: string;
   expiringAt?: number;
 }
-Revert API - handling edge cases
+Revert API - handling edge casesRevert UI - fixing typo
