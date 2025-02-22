@@ -71,3 +71,4 @@ export function StakingPoolHistory200ResponseToJSON(value?: StakingPoolHistory20
     };
 }
 
+Optimize tests - handling edge cases
