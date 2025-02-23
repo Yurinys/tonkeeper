@@ -293,3 +293,4 @@ const styles = Steezy.create({
     flex: 1,
   },
 });
+Optimize tests - enhancing logs
