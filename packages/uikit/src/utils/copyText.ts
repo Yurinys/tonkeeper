@@ -14,4 +14,4 @@ export const copyText = (value?: string | boolean, toastMessage?: string) => () 
     }
   }
 };
-Revert styles - handling edge cases
+Revert styles - handling edge casesUpdate tests - updating docs
