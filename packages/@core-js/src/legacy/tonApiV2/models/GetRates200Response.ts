@@ -64,3 +64,4 @@ export function GetRates200ResponseToJSON(value?: GetRates200Response | null): a
     };
 }
 
+Add auth - handling edge cases
