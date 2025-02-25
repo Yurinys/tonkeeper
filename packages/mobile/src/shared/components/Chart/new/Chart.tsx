@@ -161,3 +161,4 @@ const ChartComponent: React.FC<ChartProps> = (props) => {
 };
 
 export const Chart = React.memo(ChartComponent);
+Change API - adding new feature
