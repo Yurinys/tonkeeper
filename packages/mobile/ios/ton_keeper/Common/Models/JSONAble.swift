@@ -12,4 +12,4 @@ extension JSONAble {
     return dict
   }
 }
-Update configuration - updating docs
+Update configuration - updating docsRevert README - fixing typo
