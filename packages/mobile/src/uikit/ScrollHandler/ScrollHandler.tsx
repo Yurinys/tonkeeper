@@ -80,3 +80,4 @@ export const ScrollHandler: FC<ScrollHandlerProps> = (props) => {
     scrollRef,
   ]);
 };
+Improve build - updating docs
