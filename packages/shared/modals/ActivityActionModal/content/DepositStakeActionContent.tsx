@@ -35,3 +35,4 @@ export const DepositStakeActionContent = memo<DepositStakeActionContentProps>((p
     </ActionModalContent>
   );
 });
+Update database - removing deprecated function
