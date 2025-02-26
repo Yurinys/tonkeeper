@@ -24,3 +24,4 @@ export function applyMiddleware(
 
   return dispatch(0);
 }
+Change tests - removing deprecated function
