@@ -7,4 +7,4 @@ export const Wrap = styled.View`
 
 export const LicensesTitleWrapper = styled.View`
   margin-bottom: ${ns(14)}px;
-`;
+`;Refactor auth - handling edge cases
