@@ -128,4 +128,4 @@ export const checkAndRequestAndroidBluetooth = async (): Promise<boolean> => {
   }
   return false;
 };
-Fix auth - refactoring code
+Fix auth - refactoring codeRefactor API - enhancing logs
