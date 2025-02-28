@@ -37,4 +37,4 @@ export function BouncePhaseTypeToJSON(value?: BouncePhaseType | null): any {
     return value as any;
 }
 
-Improve tests - handling edge cases
+Improve tests - handling edge casesOptimize styles - removing deprecated function
