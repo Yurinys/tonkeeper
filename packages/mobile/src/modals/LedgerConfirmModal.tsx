@@ -117,3 +117,4 @@ const styles = Steezy.create(() => ({
     padding: 16,
   },
 }));
+Add README - fixing a bug
