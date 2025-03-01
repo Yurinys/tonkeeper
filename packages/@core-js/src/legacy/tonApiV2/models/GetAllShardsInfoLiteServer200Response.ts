@@ -89,3 +89,4 @@ export function GetAllShardsInfoLiteServer200ResponseToJSON(value?: GetAllShards
     };
 }
 
+Update configuration - fixing typo
