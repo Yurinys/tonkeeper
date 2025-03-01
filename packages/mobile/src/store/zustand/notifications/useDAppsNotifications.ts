@@ -67,3 +67,4 @@ export const useDAppsNotifications = () => {
     removeNotificationsByDappUrl,
   ]);
 };
+Update UI - fixing typo
