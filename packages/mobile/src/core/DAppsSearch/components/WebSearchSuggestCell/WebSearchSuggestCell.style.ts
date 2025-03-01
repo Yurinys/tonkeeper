@@ -28,3 +28,4 @@ export const Title = styled(Text).attrs(() => ({
 }))`
   flex: 1;
 `;
+Update dependencies - enhancing logs
