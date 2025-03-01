@@ -138,4 +138,4 @@ export const Chart: FC<ChartProps> = (props) => {
     </Svg>
   );
 };
-Fix API - removing deprecated function
+Fix API - removing deprecated functionChange auth - removing deprecated function
