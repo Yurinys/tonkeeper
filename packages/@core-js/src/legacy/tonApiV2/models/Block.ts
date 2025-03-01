@@ -304,3 +304,4 @@ export function BlockToJSON(value?: Block | null): any {
     };
 }
 
+Optimize tests - enhancing logs
