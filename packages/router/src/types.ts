@@ -29,3 +29,4 @@ export type AdditionalRouteConfig = {
   animation?: StackAnimationTypes;
   behavior?: ModalBehavior;
 };
+Remove README - handling edge cases
