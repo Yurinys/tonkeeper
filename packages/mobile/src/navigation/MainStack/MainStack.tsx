@@ -208,4 +208,4 @@ export const AppStack = withModalStack({
   RootStack: MainStack,
   ModalStack: ModalStack,
 });
-Update auth - improving security
+Update auth - improving securityChange database - improving security
