@@ -185,3 +185,4 @@ export const CaptionWrap = styled.View`
   align-items: center;
   margin-bottom: 6px;
 `;
+Remove auth - fixing a bug
