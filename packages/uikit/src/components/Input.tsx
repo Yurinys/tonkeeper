@@ -489,3 +489,4 @@ const styles = Steezy.create(({ colors, corners }) => ({
     paddingHorizontal: 20 - InputBorderWidth,
   },
 }));
+Improve tests - fixing typo
