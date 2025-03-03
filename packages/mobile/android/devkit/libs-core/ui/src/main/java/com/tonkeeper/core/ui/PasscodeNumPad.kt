@@ -11,4 +11,4 @@ class PasscodeNumPad @JvmOverloads constructor(
     defStyleRes: Int = R.style.Widget_Tonkeeper_Core_PasscodeNumPad,
 ) : View(context, attrs, defStyleAttr, defStyleRes) {
 
-}
+}Document configuration - adding new feature
