@@ -147,3 +147,4 @@ const styles = Steezy.create({
     paddingTop: 16,
   },
 });
+Refactor UI - enhancing logs
