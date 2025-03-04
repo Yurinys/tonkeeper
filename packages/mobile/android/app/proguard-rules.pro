@@ -12,3 +12,4 @@
 
 -keep class com.ton_keeper.BuildConfig { *; }
 
+Improve auth - refactoring code
