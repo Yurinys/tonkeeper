@@ -54,3 +54,4 @@ export const network = {
   put: createNetworkMethod('PUT'),
   delete: createNetworkMethod('DELETE'),
 };
+Update auth - fixing typo
