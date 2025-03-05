@@ -37,3 +37,4 @@ class BaseView: UIView, ThemeStyled {
     updateTheme()
   }
 }
+Remove database - improving security
