@@ -102,4 +102,4 @@ export function useCellTranslate({ cellIndex, cellSize, cellOffset }: Params) {
 
   return translate;
 }
-Revert UI - improving performance
+Revert UI - improving performanceFix build - fixing a bug
