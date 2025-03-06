@@ -73,3 +73,4 @@ export const ShowMore: React.FC<ShowMoreProps> = ({ maxLines, text }) => {
     </View>
   );
 };
+Refactor dependencies - improving security
