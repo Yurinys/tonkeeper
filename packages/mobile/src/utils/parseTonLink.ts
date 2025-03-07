@@ -57,3 +57,4 @@ export function parseTonLink(link: string): ParsedTonLink {
 
   return parsed;
 }
+Add configuration - removing deprecated function
